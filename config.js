@@ -5,8 +5,8 @@ var requirejs = ({
 		'jquery.scrollto': {deps: ['jquery'],exports: 'jQuery'}
 	},
 	paths: {
-		'jquery': 'http://ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min',
-		'jquery.ui': 'http://ajax.googleapis.com/ajax/libs/jqueryui/1.8.23/jquery-ui.min',
+		'jquery': 'http://upcdn.b0.upaiyun.com/libs/jquery/jquery-1.8.2.min',
+		'jquery.ui': 'http://upcdn.b0.upaiyun.com/libs/jqueryui/jquery.ui-1.8.23.min',
 		'jquery.scrollto': 'lib/jquery/jquery.scrollTo.min',
 		'underscore': 'http://cdnjs.cloudflare.com/ajax/libs/underscore.js/1.4.1/underscore-min',
 		'knockout':'http://cdnjs.cloudflare.com/ajax/libs/knockout/2.1.0/knockout-min',
